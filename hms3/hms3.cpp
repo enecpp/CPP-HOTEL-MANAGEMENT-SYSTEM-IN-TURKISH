@@ -1,6 +1,7 @@
 ﻿#include<iostream>
 #include<string.h>
 
+
 #define max 100
 using namespace std;
 
